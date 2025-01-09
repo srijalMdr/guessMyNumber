@@ -108,7 +108,3 @@ document.querySelector('.again').addEventListener('click', function () {
 
   document.querySelector('.number').style.width = '15rem';
 });
-
-const newFeature = function (message) {
-  console.log(message);
-};
